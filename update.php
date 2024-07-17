@@ -50,6 +50,7 @@ $conn->close();
             border: 1px solid #ccc;
             border-radius: 5px;
             background-color: #f9f9f9;
+            color: black;
         }
 
         .form-group {
